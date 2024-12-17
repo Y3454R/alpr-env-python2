@@ -34,9 +34,9 @@ Before recreating the environment, ensure the following:
   ```
   You should see something like:
 
-    ```bash
-    2.7.18/envs/alpr-env
-    ```
+  ```bash
+  2.7.18/envs/alpr-env
+  ```
 
 #### Activating the Environment
 
