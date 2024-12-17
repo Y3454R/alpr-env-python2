@@ -13,7 +13,7 @@ Before recreating the environment, ensure the following:
 
 ####   Clone the Repository: Clone this repository to your local machine:
   ```bash
-    git clone https://github.com/username/alpr-env-python2.git
+    git clone https://github.com/Y3454R/alpr-env-python2.git
     cd alpr-env-python2
   ```
 
